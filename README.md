@@ -49,7 +49,7 @@ Date,2nd_entry,3rd_entry
 
 Run it like this:
 -----------------
-python3 make-calendar.py 2021 make-cal.csv 0
+python3 make-calendar.py 2021 cal-list.csv 0
 
 Customization
 -------------
