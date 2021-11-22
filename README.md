@@ -39,14 +39,14 @@ just supply an empty file.
 
 Example
 -------
-Date,2nd_entry,3rd_entry
-dd-mm-yyyy,2nd entry,3rd entry
-
--<csv>-
-Date,2nd_entry,3rd_entry
-18/11/2021,This entry shows up on calendar,Not sure what this entry does but you need it
--</csv>-
-
+Date,2nd_entry,3rd_entry  
+dd-mm-yyyy,2nd entry,3rd entry  
+  
+-<csv>-  
+Date,2nd_entry,3rd_entry  
+18/11/2021,This entry shows up on calendar,Not sure what this entry does but you need it  
+-</csv>-  
+  
 Run it like this:
 -----------------
 python3 make-calendar.py 2021 cal-list.csv 0
